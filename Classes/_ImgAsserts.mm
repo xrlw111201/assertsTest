@@ -84,6 +84,4 @@ using namespace cocos2d;
     }];
 }
 
-
-
 @end
